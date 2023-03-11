@@ -1,5 +1,5 @@
 <div align="center">
-<h1>&lt;&rt;Hello World ! &lt;\&rt;</h1>
+<h1>&lt;&gt;Hello World ! &lt;\&gt;</h1>
 </div>  
   
 
