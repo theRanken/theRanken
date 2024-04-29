@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ranken, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Ranken, a full-time full-stack freelance developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on [GrabBot](https://github.com/theRanken)  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Mobile Development  
   
 
-- ❓ Ask me about anything related to the Python stack and related technologies  
+- ❓ Ask me about anything related to the Python/PHP stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
